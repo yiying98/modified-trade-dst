@@ -1,0 +1,1012 @@
+{
+    "Banks_1-account_type": [
+        "checking",
+        "savings"
+    ],
+    "Banks_1-recipient_account_type": [
+        "checking",
+        "savings"
+    ],
+    "Banks_1-balance": [],
+    "Banks_1-amount": [],
+    "Banks_1-recipient_account_name": [],
+    "Buses_1-from_location": [],
+    "Buses_1-to_location": [],
+    "Buses_1-from_station": [],
+    "Buses_1-to_station": [],
+    "Buses_1-leaving_date": [],
+    "Buses_1-leaving_time": [],
+    "Buses_1-fare": [],
+    "Buses_1-travelers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+    ],
+    "Buses_1-transfers": [
+        "0",
+        "1"
+    ],
+    "Buses_2-origin": [],
+    "Buses_2-destination": [],
+    "Buses_2-origin_station_name": [],
+    "Buses_2-destination_station_name": [],
+    "Buses_2-departure_date": [],
+    "Buses_2-price": [],
+    "Buses_2-departure_time": [],
+    "Buses_2-group_size": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+    ],
+    "Buses_2-fare_type": [
+        "Economy",
+        "Economy extra",
+        "Flexible"
+    ],
+    "Calendar_1-event_date": [],
+    "Calendar_1-event_time": [],
+    "Calendar_1-event_location": [],
+    "Calendar_1-event_name": [],
+    "Calendar_1-available_start_time": [],
+    "Calendar_1-available_end_time": [],
+    "Events_1-category": [
+        "Music",
+        "Sports"
+    ],
+    "Events_1-subcategory": [],
+    "Events_1-event_name": [],
+    "Events_1-date": [],
+    "Events_1-time": [],
+    "Events_1-number_of_seats": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+    ],
+    "Events_1-city_of_event": [],
+    "Events_1-event_location": [],
+    "Events_1-address_of_location": [],
+    "Events_2-event_type": [
+        "Music",
+        "Sports"
+    ],
+    "Events_2-category": [],
+    "Events_2-event_name": [],
+    "Events_2-date": [],
+    "Events_2-time": [],
+    "Events_2-number_of_tickets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+    ],
+    "Events_2-city": [],
+    "Events_2-venue": [],
+    "Events_2-venue_address": [],
+    "Flights_1-passengers": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "Flights_1-seating_class": [
+        "Economy",
+        "Premium Economy",
+        "Business",
+        "First Class"
+    ],
+    "Flights_1-origin_city": [],
+    "Flights_1-destination_city": [],
+    "Flights_1-origin_airport": [],
+    "Flights_1-destination_airport": [],
+    "Flights_1-departure_date": [],
+    "Flights_1-return_date": [],
+    "Flights_1-number_stops": [
+        "0",
+        "1"
+    ],
+    "Flights_1-outbound_departure_time": [],
+    "Flights_1-outbound_arrival_time": [],
+    "Flights_1-inbound_arrival_time": [],
+    "Flights_1-inbound_departure_time": [],
+    "Flights_1-price": [],
+    "Flights_1-refundable": [
+        "True",
+        "False"
+    ],
+    "Flights_1-airlines": [
+        "United Airlines",
+        "American Airlines",
+        "Delta Airlines",
+        "Southwest Airlines",
+        "Alaska Airlines",
+        "British Airways",
+        "Air Canada",
+        "Air France"
+    ],
+    "Flights_2-passengers": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "Flights_2-seating_class": [
+        "Economy",
+        "Premium Economy",
+        "Business",
+        "First Class"
+    ],
+    "Flights_2-origin": [],
+    "Flights_2-destination": [],
+    "Flights_2-origin_airport": [],
+    "Flights_2-destination_airport": [],
+    "Flights_2-departure_date": [],
+    "Flights_2-return_date": [],
+    "Flights_2-number_stops": [
+        "0",
+        "1"
+    ],
+    "Flights_2-outbound_departure_time": [],
+    "Flights_2-outbound_arrival_time": [],
+    "Flights_2-inbound_arrival_time": [],
+    "Flights_2-inbound_departure_time": [],
+    "Flights_2-fare": [],
+    "Flights_2-is_redeye": [
+        "True",
+        "False"
+    ],
+    "Flights_2-airlines": [
+        "United Airlines",
+        "American Airlines",
+        "Delta Airlines",
+        "Southwest Airlines",
+        "Alaska Airlines",
+        "British Airways",
+        "Air Canada",
+        "Air France"
+    ],
+    "Homes_1-area": [],
+    "Homes_1-address": [],
+    "Homes_1-property_name": [],
+    "Homes_1-phone_number": [],
+    "Homes_1-furnished": [
+        "True",
+        "False"
+    ],
+    "Homes_1-pets_allowed": [
+        "True",
+        "False"
+    ],
+    "Homes_1-rent": [],
+    "Homes_1-visit_date": [],
+    "Homes_1-number_of_beds": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "Homes_1-number_of_baths": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "Hotels_1-destination": [],
+    "Hotels_1-number_of_rooms": [
+        "1",
+        "2",
+        "3"
+    ],
+    "Hotels_1-check_in_date": [],
+    "Hotels_1-number_of_days": [],
+    "Hotels_1-star_rating": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+    ],
+    "Hotels_1-hotel_name": [],
+    "Hotels_1-street_address": [],
+    "Hotels_1-phone_number": [],
+    "Hotels_1-price_per_night": [],
+    "Hotels_1-has_wifi": [
+        "True",
+        "False"
+    ],
+    "Hotels_2-where_to": [],
+    "Hotels_2-number_of_adults": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+    ],
+    "Hotels_2-check_in_date": [],
+    "Hotels_2-check_out_date": [],
+    "Hotels_2-rating": [],
+    "Hotels_2-address": [],
+    "Hotels_2-phone_number": [],
+    "Hotels_2-total_price": [],
+    "Hotels_2-has_laundry_service": [
+        "True",
+        "False"
+    ],
+    "Hotels_3-location": [],
+    "Hotels_3-number_of_rooms": [
+        "1",
+        "2",
+        "3"
+    ],
+    "Hotels_3-check_in_date": [],
+    "Hotels_3-check_out_date": [],
+    "Hotels_3-average_rating": [],
+    "Hotels_3-hotel_name": [],
+    "Hotels_3-street_address": [],
+    "Hotels_3-phone_number": [],
+    "Hotels_3-price": [],
+    "Hotels_3-pets_welcome": [
+        "True",
+        "False"
+    ],
+    "Media_1-title": [],
+    "Media_1-genre": [],
+    "Media_1-subtitles": [
+        "True",
+        "False"
+    ],
+    "Media_1-directed_by": [],
+    "Movies_1-price": [],
+    "Movies_1-number_of_tickets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+    ],
+    "Movies_1-show_type": [
+        "regular",
+        "3d",
+        "imax"
+    ],
+    "Movies_1-theater_name": [],
+    "Movies_1-show_time": [],
+    "Movies_1-show_date": [],
+    "Movies_1-genre": [],
+    "Movies_1-street_address": [],
+    "Movies_1-location": [],
+    "Movies_1-movie_name": [],
+    "Music_1-song_name": [],
+    "Music_1-artist": [],
+    "Music_1-album": [],
+    "Music_1-genre": [],
+    "Music_1-year": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+    ],
+    "Music_1-playback_device": [
+        "TV",
+        "Kitchen speaker",
+        "Bedroom speaker"
+    ],
+    "Music_2-song_name": [],
+    "Music_2-artist": [],
+    "Music_2-album": [],
+    "Music_2-genre": [],
+    "Music_2-playback_device": [
+        "TV",
+        "kitchen speaker",
+        "bedroom speaker"
+    ],
+    "RentalCars_1-type": [
+        "Compact",
+        "Standard",
+        "Full-size"
+    ],
+    "RentalCars_1-car_name": [],
+    "RentalCars_1-pickup_location": [],
+    "RentalCars_1-pickup_date": [],
+    "RentalCars_1-pickup_time": [],
+    "RentalCars_1-pickup_city": [],
+    "RentalCars_1-dropoff_date": [],
+    "RentalCars_1-total_price": [],
+    "RentalCars_2-car_type": [
+        "Compact",
+        "Standard",
+        "Full-size"
+    ],
+    "RentalCars_2-car_name": [],
+    "RentalCars_2-pickup_location": [],
+    "RentalCars_2-pickup_date": [],
+    "RentalCars_2-pickup_time": [],
+    "RentalCars_2-pickup_city": [],
+    "RentalCars_2-dropoff_date": [],
+    "RentalCars_2-total_price": [],
+    "Restaurants_1-restaurant_name": [],
+    "Restaurants_1-date": [],
+    "Restaurants_1-time": [],
+    "Restaurants_1-serves_alcohol": [
+        "True",
+        "False"
+    ],
+    "Restaurants_1-has_live_music": [
+        "True",
+        "False"
+    ],
+    "Restaurants_1-phone_number": [],
+    "Restaurants_1-street_address": [],
+    "Restaurants_1-party_size": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+    ],
+    "Restaurants_1-price_range": [
+        "inexpensive",
+        "moderate",
+        "expensive",
+        "very expensive"
+    ],
+    "Restaurants_1-city": [],
+    "Restaurants_1-cuisine": [
+        "Mexican",
+        "Chinese",
+        "Indian",
+        "American",
+        "Italian"
+    ],
+    "RideSharing_1-destination": [],
+    "RideSharing_1-shared_ride": [
+        "True",
+        "False"
+    ],
+    "RideSharing_1-ride_fare": [],
+    "RideSharing_1-approximate_ride_duration": [],
+    "RideSharing_1-number_of_riders": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "RideSharing_2-destination": [],
+    "RideSharing_2-ride_type": [
+        "Pool",
+        "Regular",
+        "Luxury"
+    ],
+    "RideSharing_2-ride_fare": [],
+    "RideSharing_2-wait_time": [],
+    "RideSharing_2-number_of_seats": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "Services_1-stylist_name": [],
+    "Services_1-phone_number": [],
+    "Services_1-average_rating": [],
+    "Services_1-is_unisex": [
+        "True",
+        "False"
+    ],
+    "Services_1-street_address": [],
+    "Services_1-city": [],
+    "Services_1-appointment_date": [],
+    "Services_1-appointment_time": [],
+    "Services_2-dentist_name": [],
+    "Services_2-phone_number": [],
+    "Services_2-address": [],
+    "Services_2-city": [],
+    "Services_2-appointment_date": [],
+    "Services_2-appointment_time": [],
+    "Services_2-offers_cosmetic_services": [
+        "True",
+        "False"
+    ],
+    "Services_3-doctor_name": [],
+    "Services_3-phone_number": [],
+    "Services_3-average_rating": [],
+    "Services_3-street_address": [],
+    "Services_3-city": [],
+    "Services_3-appointment_date": [],
+    "Services_3-appointment_time": [],
+    "Services_3-type": [
+        "Gynecologist",
+        "ENT Specialist",
+        "Ophthalmologist",
+        "General Practitioner",
+        "Dermatologist"
+    ],
+    "Travel_1-location": [],
+    "Travel_1-attraction_name": [],
+    "Travel_1-category": [
+        "Place of Worship",
+        "Theme Park",
+        "Museum",
+        "Historical Landmark",
+        "Park",
+        "Tourist Attraction",
+        "Sports Venue",
+        "Shopping Area",
+        "Performing Arts Venue",
+        "Nature Preserve"
+    ],
+    "Travel_1-phone_number": [],
+    "Travel_1-free_entry": [
+        "True",
+        "False"
+    ],
+    "Travel_1-good_for_kids": [
+        "True",
+        "False"
+    ],
+    "Weather_1-precipitation": [],
+    "Weather_1-humidity": [],
+    "Weather_1-wind": [],
+    "Weather_1-temperature": [],
+    "Weather_1-city": [],
+    "Weather_1-date": [],
+    "Alarm_1-alarm_time": [],
+    "Alarm_1-alarm_name": [],
+    "Alarm_1-new_alarm_time": [],
+    "Alarm_1-new_alarm_name": [],
+    "Banks_2-account_type": [
+        "checking",
+        "savings"
+    ],
+    "Banks_2-recipient_account_type": [
+        "checking",
+        "savings"
+    ],
+    "Banks_2-account_balance": [],
+    "Banks_2-transfer_amount": [],
+    "Banks_2-recipient_name": [],
+    "Banks_2-transfer_time": [],
+    "Flights_3-passengers": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "Flights_3-flight_class": [
+        "Economy",
+        "Premium Economy",
+        "Business",
+        "First Class"
+    ],
+    "Flights_3-origin_city": [],
+    "Flights_3-destination_city": [],
+    "Flights_3-origin_airport_name": [],
+    "Flights_3-destination_airport_name": [],
+    "Flights_3-departure_date": [],
+    "Flights_3-return_date": [],
+    "Flights_3-number_stops": [
+        "0",
+        "1"
+    ],
+    "Flights_3-outbound_departure_time": [],
+    "Flights_3-outbound_arrival_time": [],
+    "Flights_3-inbound_arrival_time": [],
+    "Flights_3-inbound_departure_time": [],
+    "Flights_3-price": [],
+    "Flights_3-number_checked_bags": [
+        "0",
+        "1",
+        "2"
+    ],
+    "Flights_3-airlines": [
+        "United Airlines",
+        "American Airlines",
+        "Delta Airlines",
+        "Southwest Airlines",
+        "Alaska Airlines",
+        "British Airways",
+        "Air Canada",
+        "Air France"
+    ],
+    "Flights_3-arrives_next_day": [
+        "True",
+        "False"
+    ],
+    "Hotels_4-location": [],
+    "Hotels_4-number_of_rooms": [
+        "1",
+        "2",
+        "3"
+    ],
+    "Hotels_4-check_in_date": [],
+    "Hotels_4-stay_length": [],
+    "Hotels_4-star_rating": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+    ],
+    "Hotels_4-place_name": [],
+    "Hotels_4-street_address": [],
+    "Hotels_4-phone_number": [],
+    "Hotels_4-price_per_night": [],
+    "Hotels_4-smoking_allowed": [
+        "True",
+        "False"
+    ],
+    "Media_2-movie_name": [],
+    "Media_2-genre": [],
+    "Media_2-subtitle_language": [
+        "None",
+        "English",
+        "Mandarin",
+        "Spanish"
+    ],
+    "Media_2-director": [],
+    "Media_2-actors": [],
+    "Media_2-price": [],
+    "Movies_2-title": [],
+    "Movies_2-genre": [],
+    "Movies_2-aggregate_rating": [],
+    "Movies_2-starring": [],
+    "Movies_2-director": [],
+    "Restaurants_2-restaurant_name": [],
+    "Restaurants_2-date": [],
+    "Restaurants_2-time": [],
+    "Restaurants_2-has_seating_outdoors": [
+        "True",
+        "False"
+    ],
+    "Restaurants_2-has_vegetarian_options": [
+        "True",
+        "False"
+    ],
+    "Restaurants_2-phone_number": [],
+    "Restaurants_2-rating": [],
+    "Restaurants_2-address": [],
+    "Restaurants_2-number_of_seats": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+    ],
+    "Restaurants_2-price_range": [
+        "cheap",
+        "moderate",
+        "pricey",
+        "ultra high-end"
+    ],
+    "Restaurants_2-location": [],
+    "Restaurants_2-category": [],
+    "Services_4-therapist_name": [],
+    "Services_4-phone_number": [],
+    "Services_4-address": [],
+    "Services_4-city": [],
+    "Services_4-appointment_date": [],
+    "Services_4-appointment_time": [],
+    "Services_4-type": [
+        "Psychologist",
+        "Family Counselor",
+        "Psychiatrist"
+    ],
+    "Buses_3-from_city": [],
+    "Buses_3-to_city": [],
+    "Buses_3-from_station": [],
+    "Buses_3-to_station": [],
+    "Buses_3-departure_date": [],
+    "Buses_3-departure_time": [],
+    "Buses_3-price": [],
+    "Buses_3-additional_luggage": [
+        "True",
+        "False"
+    ],
+    "Buses_3-num_passengers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+    ],
+    "Buses_3-category": [
+        "direct",
+        "one-stop"
+    ],
+    "Events_3-event_type": [
+        "Music",
+        "Theater"
+    ],
+    "Events_3-event_name": [],
+    "Events_3-date": [],
+    "Events_3-time": [],
+    "Events_3-number_of_tickets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+    ],
+    "Events_3-price_per_ticket": [],
+    "Events_3-city": [],
+    "Events_3-venue": [],
+    "Events_3-venue_address": [],
+    "Flights_4-number_of_tickets": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "Flights_4-seating_class": [
+        "Economy",
+        "Premium Economy",
+        "Business"
+    ],
+    "Flights_4-origin_airport": [],
+    "Flights_4-destination_airport": [],
+    "Flights_4-departure_date": [],
+    "Flights_4-return_date": [],
+    "Flights_4-is_nonstop": [
+        "True",
+        "False"
+    ],
+    "Flights_4-outbound_departure_time": [],
+    "Flights_4-outbound_arrival_time": [],
+    "Flights_4-inbound_arrival_time": [],
+    "Flights_4-inbound_departure_time": [],
+    "Flights_4-price": [],
+    "Flights_4-airlines": [
+        "United Airlines",
+        "American Airlines",
+        "Delta Airlines",
+        "Southwest Airlines",
+        "Alaska Airlines",
+        "British Airways",
+        "Air Canada",
+        "Air France",
+        "South African Airways",
+        "LOT Polish Airlines",
+        "LATAM Brasil"
+    ],
+    "Homes_2-intent": [
+        "rent",
+        "buy"
+    ],
+    "Homes_2-area": [],
+    "Homes_2-address": [],
+    "Homes_2-property_name": [],
+    "Homes_2-phone_number": [],
+    "Homes_2-has_garage": [
+        "True",
+        "False"
+    ],
+    "Homes_2-in_unit_laundry": [
+        "True",
+        "False"
+    ],
+    "Homes_2-price": [],
+    "Homes_2-visit_date": [],
+    "Homes_2-number_of_beds": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "Homes_2-number_of_baths": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "Media_3-title": [],
+    "Media_3-genre": [],
+    "Media_3-subtitle_language": [
+        "English",
+        "Spanish",
+        "Hindi",
+        "French"
+    ],
+    "Media_3-starring": [],
+    "Messaging_1-location": [],
+    "Messaging_1-contact_name": [],
+    "Movies_3-movie_title": [],
+    "Movies_3-genre": [],
+    "Movies_3-percent_rating": [],
+    "Movies_3-cast": [],
+    "Movies_3-directed_by": [],
+    "Music_3-track": [],
+    "Music_3-artist": [],
+    "Music_3-album": [],
+    "Music_3-genre": [],
+    "Music_3-year": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+    ],
+    "Music_3-device": [
+        "Living room",
+        "Kitchen",
+        "Patio"
+    ],
+    "Payment_1-payment_method": [
+        "app balance",
+        "debit card",
+        "credit card"
+    ],
+    "Payment_1-amount": [],
+    "Payment_1-receiver": [],
+    "Payment_1-private_visibility": [
+        "True",
+        "False"
+    ],
+    "RentalCars_3-car_type": [
+        "Hatchback",
+        "Sedan",
+        "SUV"
+    ],
+    "RentalCars_3-car_name": [],
+    "RentalCars_3-pickup_location": [],
+    "RentalCars_3-start_date": [],
+    "RentalCars_3-pickup_time": [],
+    "RentalCars_3-city": [],
+    "RentalCars_3-end_date": [],
+    "RentalCars_3-price_per_day": [],
+    "RentalCars_3-add_insurance": [
+        "True",
+        "False"
+    ],
+    "Trains_1-from": [],
+    "Trains_1-to": [],
+    "Trains_1-from_station": [],
+    "Trains_1-to_station": [],
+    "Trains_1-date_of_journey": [],
+    "Trains_1-journey_start_time": [],
+    "Trains_1-total": [],
+    "Trains_1-number_of_adults": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+    ],
+    "Trains_1-class": [
+        "Value",
+        "Flexible",
+        "Business"
+    ],
+    "Trains_1-trip_protection": [
+        "True",
+        "False"
+    ],
+    "hotel-hotel-pricerange": [
+        "expensive",
+        "cheap",
+        "moderate"
+    ],
+    "hotel-hotel-type": [
+        "guesthouse",
+        "hotel"
+    ],
+    "hotel-hotel-parking": [
+        "free",
+        "no",
+        "yes"
+    ],
+    "hotel-hotel-bookday": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+    ],
+    "hotel-hotel-bookpeople": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+    ],
+    "hotel-hotel-bookstay": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+    ],
+    "hotel-hotel-stars": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+    ],
+    "hotel-hotel-internet": [
+        "free",
+        "no",
+        "yes"
+    ],
+    "hotel-hotel-name": [],
+    "hotel-hotel-area": [
+        "centre",
+        "east",
+        "north",
+        "south",
+        "west"
+    ],
+    "train-train-arriveby": [],
+    "train-train-departure": [
+        "birmingham new street",
+        "bishops stortford",
+        "broxbourne",
+        "cambridge",
+        "ely",
+        "kings lynn",
+        "leicester",
+        "london kings cross",
+        "london liverpool street",
+        "norwich",
+        "peterborough",
+        "stansted airport",
+        "stevenage"
+    ],
+    "train-train-day": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+    ],
+    "train-train-bookpeople": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "15"
+    ],
+    "train-train-leaveat": [],
+    "train-train-destination": [
+        "birmingham new street",
+        "bishops stortford",
+        "broxbourne",
+        "cambridge",
+        "ely",
+        "kings lynn",
+        "leicester",
+        "london kings cross",
+        "london liverpool street",
+        "norwich",
+        "peterborough",
+        "stansted airport",
+        "stevenage"
+    ],
+    "attraction-attraction-area": [
+        "centre",
+        "east",
+        "north",
+        "south",
+        "west"
+    ],
+    "attraction-attraction-name": [],
+    "attraction-attraction-type": [
+        "architecture",
+        "boat",
+        "cinema",
+        "college",
+        "concerthall",
+        "entertainment",
+        "museum",
+        "multiple sports",
+        "nightclub",
+        "park",
+        "swimmingpool",
+        "theatre"
+    ],
+    "restaurant-restaurant-pricerange": [
+        "cheap",
+        "expensive",
+        "moderate"
+    ],
+    "restaurant-restaurant-area": [
+        "centre",
+        "east",
+        "north",
+        "south",
+        "west"
+    ],
+    "restaurant-restaurant-food": [],
+    "restaurant-restaurant-name": [],
+    "restaurant-restaurant-bookday": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+    ],
+    "restaurant-restaurant-bookpeople": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+    ],
+    "restaurant-restaurant-booktime": [],
+    "hospital-hospital-department": [],
+    "taxi-taxi-leaveat": [],
+    "taxi-taxi-destination": [],
+    "taxi-taxi-departure": [],
+    "taxi-taxi-arriveby": [],
+    "bus-bus-departure": [
+        "cambridge"
+    ],
+    "bus-bus-destination": [
+        "london kings cross",
+        "bishops stortford",
+        "cambridge",
+        "kohinoor"
+    ],
+    "bus-bus-day": [
+        "wednesday"
+    ],
+    "police-police-name": [
+        "parkside police station"
+    ]
+}
